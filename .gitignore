@@ -1,0 +1,9 @@
+.env
+.terraform/*
+.infracost/*
+.terraform.lock
+terraform.tfstate
+.terraform.lock
+.terraform.tfstate.backup
+.terraform.lock.hcl
+terraform.tfstate.backup
